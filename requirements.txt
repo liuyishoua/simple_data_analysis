@@ -1,0 +1,8 @@
+cv
+bs4
+jieba
+numpy
+pandas
+requests
+wordcloud
+matplotlib
