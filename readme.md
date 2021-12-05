@@ -16,7 +16,7 @@ pip install -r requirements.txt
 
 **两种方式运行**：
 
-1. 运行**.py**文件
+1. 运行**py**文件
 
 ```python
 python main.py
